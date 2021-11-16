@@ -1,6 +1,6 @@
 import React from "react";
-import Truck from "../../public/icons/truck";
 import tw from "tailwind-styled-components";
+import Link from "next/link";
 
 const ActionItems = () => {
   return (
